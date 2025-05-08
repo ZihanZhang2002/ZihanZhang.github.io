@@ -9,7 +9,7 @@ redirect_from:
 
 Hi Guys! 👋
 
-I am currently pursuing a Master's degree in Electrical and Computer Engineering at **Johns Hopkins University**, under the supervision of Prof. Laureano Moro Velazquez 🎓. I received my Bachelor's degree in Computer Science and Technology from **Northeast Forestry University** under the guidance of Prof. Mingyu Ji 🎓.
+I am currently working as a Research Assistent Intern in HKUST(GZ) PEAK Lab, under the supervision of Prof. ChangHao Chen. I am also pursuing a Master's degree in Electrical and Computer Engineering at **Johns Hopkins University**, under the supervision of Prof. Laureano Moro Velazquez 🎓. I received my Bachelor's degree in Computer Science and Technology from **Northeast Forestry University** under the guidance of Prof. Mingyu Ji 🎓.
 
 I am also honored to collaborate with Dr. Siteng Huang from DAMO Academy and PhD candidate Yuhang Han from NWPU 🤝.
 My research interests include **Artificial Intelligence Generated Content** 🤖, **Efficient Model Inference** ⚡, **Artificial Intelligence for Healthcare** 🏥, and **Object Detection** 🔍.
@@ -17,6 +17,7 @@ My research interests include **Artificial Intelligence Generated Content** 🤖
 
 **News 📰**  
 ======
+**2025.05.08**: So honored to join in **PEAK Lab @ HKUST(GZ)**, under the supervision of **Prof. Changhao Chen**.
 
 **2025.03.08**: Our *latest work*, **"Filter, Correlate, Compress: Training-Free Token Reduction for MLLM Acceleration"**, has been submitted to **ICCV25** 🚀.  
 
