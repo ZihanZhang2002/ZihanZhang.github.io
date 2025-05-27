@@ -21,7 +21,7 @@ My research interests include **Artificial Intelligence Generated Content** 🤖
 
 **2025.03.08**: Our *latest work*, **"Filter, Correlate, Compress: Training-Free Token Reduction for MLLM Acceleration"**, has been submitted to **ICCV25** 🚀.  
 
-**2024.04.15**: My master's application season has successfully concluded. I am fortunate to have received offers from *Johns Hopkins University*, *Columbia University*, *University of Southern California*, *Washington University in St. Louis*, *New York University*, *National University of Singapore*, *University College London*, and so on 🎉.  
+**2024.06.15**: Just graduated from NEFU, and I would continue to study for a master's degree @ **Johns Hopkins University**, Wish me good Luck 🎉.  
 
 **2023.12.10**: Our paper *Identification of Forest Insects Based on Machine Learning* has been accepted by *Journal of Physics: Conference Series (2366(1), 012043))* 🎉.  
 
