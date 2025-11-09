@@ -18,6 +18,7 @@ My research interests include **Artificial Intelligence Generated Content** 🤖
 **News 📰**  
 ======
 **2025.11.07**: Our paper **Filter, correlate, compress: Training-free token reduction for mllm acceleration** has been Accepted by **AAAI**, Thanks for all of my Co-authors
+
 **2025.05.08**: So honored to join in **PEAK Lab @ HKUST(GZ)**, under the supervision of **Prof. Changhao Chen**.
 
 **2025.03.08**: Our *latest work*, **"Filter, Correlate, Compress: Training-Free Token Reduction for MLLM Acceleration"**, has been submitted to **ICCV25** 🚀.  
@@ -32,9 +33,11 @@ My research interests include **Artificial Intelligence Generated Content** 🤖
 ======
 
 **Conference**  
+- *Filter, Correlate, Compress: Training-Free Token Reduction for MLLM Acceleration*, submitted to *AAAI26* (**2025.11.07**).
+- 
 - *Identification of Forest Insects Based on Machine Learning*, accepted by *Journal of Physics: Conference Series (2366(1), 012043)* (**2023.12.10**).
 
 **Under Review & Preprints**  
-- *Filter, Correlate, Compress: Training-Free Token Reduction for MLLM Acceleration*, submitted to *ICCV25* (**2025.03.08**).
+
 
 Feel free to explore my GitHub repositories where I share my projects, research, and innovations.
