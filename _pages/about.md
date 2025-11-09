@@ -17,6 +17,7 @@ My research interests include **Artificial Intelligence Generated Content** 🤖
 
 **News 📰**  
 ======
+**2025.11.07**: Our paper **Filter, correlate, compress: Training-free token reduction for mllm acceleration** has been Accepted by **AAAI**, Thanks for all of my Co-authors
 **2025.05.08**: So honored to join in **PEAK Lab @ HKUST(GZ)**, under the supervision of **Prof. Changhao Chen**.
 
 **2025.03.08**: Our *latest work*, **"Filter, Correlate, Compress: Training-Free Token Reduction for MLLM Acceleration"**, has been submitted to **ICCV25** 🚀.  
