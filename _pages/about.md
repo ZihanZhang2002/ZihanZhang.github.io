@@ -33,7 +33,7 @@ My research interests include **Artificial Intelligence Generated Content** 🤖
 ======
 
 **Conference**  
-- *Filter, Correlate, Compress: Training-Free Token Reduction for MLLM Acceleration*, submitted to *AAAI26* (**2025.11.07**).
+- *Filter, Correlate, Compress: Training-Free Token Reduction for MLLM Acceleration*, Accepted by **AAAI26** (**2025.11.07**).
 - 
 - *Identification of Forest Insects Based on Machine Learning*, accepted by *Journal of Physics: Conference Series (2366(1), 012043)* (**2023.12.10**).
 
