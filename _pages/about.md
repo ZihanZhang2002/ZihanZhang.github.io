@@ -9,9 +9,9 @@ redirect_from:
 
 Hi Guys! 👋
 
-I am currently working as a Research Assistent Intern in HKUST(GZ) PEAK Lab, under the supervision of Prof. ChangHao Chen. I am also pursuing a Master's degree in Electrical and Computer Engineering at **Johns Hopkins University**, under the supervision of Prof. Laureano Moro Velazquez 🎓. I received my Bachelor's degree in Computer Science and Technology from **Northeast Forestry University** under the guidance of Prof. Mingyu Ji 🎓.
+I am a member of the Smile Lab at the Center for Language and Speech Processing (CLSP), advised by Dr. Berrak Sisman. Before joining SMILE Lab, I was a Research Assistent Intern in HKUST(GZ) PEAK Lab, under the supervision of Prof. ChangHao Chen. I am also pursuing a Master's degree in Electrical and Computer Engineering at **Johns Hopkins University**, under the supervision of Prof. Laureano Moro Velazquez 🎓. I received my Bachelor's degree in Computer Science and Technology from **Northeast Forestry University** under the guidance of Prof. Mingyu Ji 🎓.
 
-I am also honored to collaborate with Dr. Siteng Huang from DAMO Academy and PhD candidate Yuhang Han from NWPU 🤝.
+I am also honored to collaborate with Dr. Siteng Huang from DAMO Academy and PhD candidate Yuhang Han from SJTU 🤝.
 My research interests include **Artificial Intelligence Generated Content** 🤖, **Efficient Model Inference** ⚡, **Artificial Intelligence for Healthcare** 🏥, and **Object Detection** 🔍.
 
 
