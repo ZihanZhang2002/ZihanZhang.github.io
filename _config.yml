@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "111.jpg"
+  avatar           : "avatar.jpg"
   name             : "Zihan Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Master @JHU"
+  bio              : "Research Associate @ JHU HLTCOE"
   location         : "Baltimore, USA"
   employer         : "Johns Hopkins University"
   uri              : # URL
